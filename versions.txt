@@ -1,0 +1,5 @@
+scikit-image == 0.16.2
+scikit-brain == 1.0
+git://git.example.com:brain_analysis.git@dfc801d7db41bc8e4dea104786497f3eb09ae9e0
+git://github.com:UCL-COMP0233-23-24/sagittal_average.git@d8bc3ebaecd0cc7a2872da4c81d30b56f9b746ad
+numpy == 1.17
